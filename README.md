@@ -22,4 +22,4 @@
 - 有Bigquery，Dremio & Tableau 开发和优化经验的优先
 - 有敏捷大数据和数据可视化实践经验优先
 
-简历可发送给我们HR，Pat：bhruan@riches.ai
+简历可发送给我们HR，Pat：jobs@footprint.network

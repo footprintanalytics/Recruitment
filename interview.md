@@ -1,4 +1,4 @@
-# big data candidate assignment 
+# data analyst candidate assignment 
 
 please init a dataframe with 10 million rows of data: index, a random number 
 then find the top 100 biggest number

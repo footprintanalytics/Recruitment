@@ -15,7 +15,7 @@
 - 有区块链开发经验优先
 - 具备创新精神，条理清晰，沟通表达和逻辑思维能力强
 - 熟悉离线、实时数据仓库的设计和开发，对数据架构有深入的了解和具备相关的项目实践经验优先
-- 对Spark，DBT，Flink, Kafka, Bigquery，OLAP如Doris/StarRocks 有深入研究的优先
+- 对SQL优化，Spark，DBT，Flink, Kafka, Bigquery，OLAP如Doris/StarRocks 一个或多个领域有深入研究的优先
 - 有敏捷大数据和数据可视化实践经验优先
 
 简历可发送给我们HR，Pat：jobs@footprint.network
